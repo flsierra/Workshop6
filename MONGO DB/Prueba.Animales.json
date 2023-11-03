@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65401a8eff288f566d32dc60"
+  },
+  "grupo": "Vertebrados",
+  "sub-grupo": "Aves",
+  "especie": "Loro verde"
+},
+{
+  "_id": {
+    "$oid": "65401c39ff288f566d32dc61"
+  },
+  "grupo": "Invertebrados",
+  "sub-grupo": "Insectos",
+  "especie": "Mosquitos"
+},
+{
+  "_id": {
+    "$oid": "65402046ff288f566d32dc63"
+  },
+  "grupo": "Vertebrados",
+  "sub-grupo": "Mamiferos",
+  "especie": "Leopardo"
+},
+{
+  "_id": {
+    "$oid": "654022c1ff288f566d32dc66"
+  },
+  "grupo": "Vertebrados",
+  "sub-grupo": "Mamiferos",
+  "especie": "Elefante blanco"
+},
+{
+  "_id": {
+    "$oid": "65402373ff288f566d32dc67"
+  },
+  "grupo": "Vertebrados",
+  "sub-grupo": "Mamiferos",
+  "especie": "Oso de anteojos"
+},
+{
+  "_id": {
+    "$oid": "654023f6ff288f566d32dc68"
+  },
+  "grupo": "Vertebrados",
+  "sub-grupo": "Aves",
+  "especie": "Guacamaya"
+},
+{
+  "_id": {
+    "$oid": "6540245dff288f566d32dc6a"
+  },
+  "grupo": "Invertebrados",
+  "sub-grupo": "Insectos",
+  "especie": "Abejas"
+},
+{
+  "_id": {
+    "$oid": "654024e0ff288f566d32dc6c"
+  },
+  "grupo": "Invertebrados",
+  "sub-grupo": "Anélidos",
+  "especie": "Lombriz roja"
+},
+{
+  "_id": {
+    "$oid": "6540251dff288f566d32dc6d"
+  },
+  "grupo": "Vertebrados",
+  "sub-grupo": "Mamiferos",
+  "especie": "Caballo"
+},
+{
+  "_id": {
+    "$oid": "6540257dff288f566d32dc6e"
+  },
+  "grupo": "Vertebrados",
+  "sub-grupo": "Aves",
+  "especie": "Guacamaya Roja"
+}]
